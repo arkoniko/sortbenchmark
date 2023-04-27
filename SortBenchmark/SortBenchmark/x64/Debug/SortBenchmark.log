@@ -1,0 +1,3 @@
+﻿  SortBenchmark.cpp
+C:\Users\nikol\source\repos\SortBenchmark\SortBenchmark\SortBenchmark.cpp(97,54): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  SortBenchmark.vcxproj -> C:\Users\nikol\source\repos\SortBenchmark\x64\Debug\SortBenchmark.exe
